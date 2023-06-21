@@ -16,19 +16,14 @@ Apache Storm 是一个免费的，开源的，分布式的实时计算系统.
 
 ## 维护地址
 
-+   [在线阅读](http://storm.apachecn.org)
-+   [在线阅读（Gitee）](https://apachecn.gitee.io/storm-doc-zh/)
++   [在线阅读](http://storm.flygon.net)
 +   [EPUB 格式](https://github.com/apachecn/storm-doc-zh/raw/dl/Storm%201.1.0%20%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3.epub)
 +   [Github](https://github.com/apachecn/storm-doc-zh/)
 
 ## 历史版本
 
 +   [Storm 1.1.0 官方文档中文版](./)，整体翻译进度为 96%，更多细节请看[时光轴](docs/77.md)  
-+   [Storm 1.0.1 官方文档中文版](http://cwiki.apachecn.org/pages/viewpage.action?pageId=2884006)（抱歉, 只翻译了一点点, 后面翻译其它的文档去了，现在已经迭代到 Storm 1.1.0 的中文文档中）
-
-## 贡献指南
-
-[请见这里](CONTRIBUTING.md)
++   [Storm 1.0.1 官方文档中文版](http://cwiki.flygon.net/pages/viewpage.action?pageId=2884006)（抱歉, 只翻译了一点点, 后面翻译其它的文档去了，现在已经迭代到 Storm 1.1.0 的中文文档中）
 
 ## 负责人
 
@@ -56,15 +51,7 @@ Apache Storm 是一个免费的，开源的，分布式的实时计算系统.
 
 ### 1.0.1
 
-请参阅: [http://cwiki.apachecn.org/pages/viewpage.action?pageId=11534485](http://cwiki.apachecn.org/pages/viewpage.action?pageId=11534485)
-
-## 联系方式
-
-有任何建议反馈, 或想参与文档翻译, 麻烦方式如下:
-
-* 企鹅: 1042658081
-* 企鹅群: 214293307
-
+请参阅: [http://cwiki.flygon.net/pages/viewpage.action?pageId=11534485](http://cwiki.flygon.net/pages/viewpage.action?pageId=11534485)
 
 ## 下载
 
@@ -73,14 +60,6 @@ Apache Storm 是一个免费的，开源的，分布式的实时计算系统.
 ```
 docker pull apachecn0/storm-doc-zh
 docker run -tid -p <port>:80 apachecn0/storm-doc-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install storm-doc-zh
-storm-doc-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
